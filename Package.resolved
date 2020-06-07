@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftExample",
+        "repositoryURL": "git@github.com:rausnitz/SwiftExample.git",
+        "state": {
+          "branch": "master",
+          "revision": "09af8f033da2023087673eb4552f30a5c569457c",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
